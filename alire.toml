@@ -1,0 +1,12 @@
+name = "adachip"
+description = "A Chip8 Interpreter"
+version = "0.1.0-dev"
+
+authors = ["gmcgee2"]
+maintainers = ["gmcgee2 <323769466+gmcgee2@users.noreply.github.com>"]
+maintainers-logins = ["gmcgee2"]
+licenses = "MIT"
+website = ""
+tags = []
+
+executables = ["adachip"]
